@@ -1,0 +1,2 @@
+BORG_REPO,"/Your/path/to/usb-drive/or/local/volume/where/you/want/to/create/the/backup"
+DIRECTORIES,"/Your/path/to/source/directories/1","/Your/path/to/source/directories/2","/Your/path/to/source/directories/3","/Your/path/to/source/directories/4"
