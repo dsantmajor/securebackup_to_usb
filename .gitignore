@@ -1,0 +1,4 @@
+*.log
+*.logs
+backup_config.csv
+.DS_Store
