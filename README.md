@@ -53,7 +53,8 @@ If BorgBackup is not installed, the tool will install it for you automatically, 
 ## Usage
 
 - Clone the repo
-  `git clone borg-backup`
+ 
+-  `git clone https://github.com/dsantmajor/securebackup_to_usb.git`
 - `make help`
   
 Makefile has these commands
