@@ -15,6 +15,7 @@ This project provides a backup solution using BorgBackup on macOS. It is designe
 `make backup` will create de-duped backups of all the the directories listed in your [backup_config.csv](./backup_config_template.csv) to a USB drive as defined in this file [BORG_REPO](./borg_backups.sh) . It will also store your passphrase securely in keychain. The make commands will let you list and restore your backups.
 
 PS: update the BORG_REPO to point to a usb drive
+
 - run `df -h`
 ```bash
 Filesystem       Size   Used  Avail Capacity iused     ifree %iused  Mounted on
